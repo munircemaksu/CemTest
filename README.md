@@ -1,4 +1,3 @@
-# CemTest
 <LineearLayout
 android:orientation="Vertical"
 android:layout_width="wrap_content"
